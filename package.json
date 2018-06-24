@@ -1,0 +1,27 @@
+{
+  "name": "feeless_attack",
+  "version": "0.0.1",
+  "description": "Attack on the Feeless library",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChainSecurity/feeless_attack.git"
+  },
+  "keywords": [
+    "attack",
+    "ethereum",
+    "security"
+  ],
+  "author": "Hubert Ritzdorf",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "ethereumjs-abi": "^0.6.5",
+    "openzeppelin-solidity": "1.9.0"
+  }
+}
